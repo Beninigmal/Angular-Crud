@@ -1,0 +1,86 @@
+{
+  "productList": [
+    {
+      "productName": "Redmi 4x",
+      "category": "Eletronics",
+      "freshness": "usado",
+      "price": 500,
+      "comment": "Celular da moda!",
+      "date": "2022-02-22T03:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Fone condução óssea",
+      "category": "Eletronics",
+      "freshness": "Novo",
+      "price": 150,
+      "comment": "Fone de condução óssea que passa entra som no timpano!",
+      "date": "2022-02-22T03:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Poco X3",
+      "category": "Eletronics",
+      "freshness": "Novo",
+      "price": 1600,
+      "comment": "Smartphone novo.",
+      "date": "2022-02-22T03:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Óculos",
+      "category": "Eletronics",
+      "freshness": "Novo",
+      "price": 800,
+      "comment": "Óculos dos Beatles\n",
+      "date": "2022-02-24T03:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Celular 1",
+      "category": "Eletronics",
+      "freshness": "usado",
+      "price": 500,
+      "comment": "Celular bem conservado.",
+      "date": "2022-02-21T03:00:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "Celular",
+      "category": "Eletronics",
+      "freshness": "usado",
+      "price": 500,
+      "comment": "Celular bem conservado só falta metade da tela.",
+      "date": "2022-02-21T03:00:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "Garrafa",
+      "category": "Eletronics",
+      "freshness": "usado",
+      "price": 20,
+      "comment": "Message in a bottle",
+      "date": "2022-02-15T03:00:00.000Z",
+      "id": 9
+    },
+    {
+      "productName": "Pitaya",
+      "category": "Fruits",
+      "freshness": "Novo",
+      "price": 25,
+      "comment": "Fruta deliciosa",
+      "date": "2022-02-22T03:00:00.000Z",
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
